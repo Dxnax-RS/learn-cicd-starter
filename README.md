@@ -1,4 +1,4 @@
-![Dybamic badge](https://github.com/Dxnax-RS/learn-cicd-starter/actions/workflows/ci-yml/badge.svg)
+[![ci](https://github.com/Dxnax-RS/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/Dxnax-RS/learn-cicd-starter/actions/workflows/ci.yml)
 
 # learn-cicd-starter (Notely)
 

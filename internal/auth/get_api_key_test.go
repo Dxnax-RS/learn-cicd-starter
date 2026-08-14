@@ -8,10 +8,10 @@ import (
 
 func TestGetAPIKey(t *testing.T){
 	tests := map[string]struct {
-		input 		http.Header
+		input 	http.Header
 		want 	error
 	}{
-		"simple": {input: map[string][]string{"Authorization": []string {"ApiKey"}}, want: nil},
+		"simple": {input: map[string][]string{"Authorization": []string {"ApiKey mockapikey"}}, want: nil},
 	}
 
 	for name, tc := range tests {
